@@ -1,9 +1,9 @@
 ---
 title: Text extraction from videos
-summary: An example of linking directly to an 
+summary: The procedure of textual information extraction from images is usually split into three steps
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Undergraduate Projects
+date: "2019-12-28"
 
 # Optional external URL for project (replaces project detail page).
 

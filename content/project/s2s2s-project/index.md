@@ -1,14 +1,15 @@
 ---
 title: Sit-to-Stand-to-Step modeling
-summary: An example of linking directly to an external project website
-tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
+summary: On a daily basis, healthy adults perform average 
+tags: 
+- Graduate Projects
+date: "2019-12-28"
 
 
 image:
+
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
+
+
