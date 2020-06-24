@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "All India Council for Technical Education (AICTE)"
   # organization_url = "https://www.coursera.org"
-  title = "Merit-based 100% tuition fee waiver"
+  title = "Fellowship"
   url = ""
   # certificate_url = "https://www.coursera.org"
   date_start = "2009-09-01"

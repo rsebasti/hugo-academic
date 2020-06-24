@@ -21,8 +21,7 @@ organizations:
 bio: My research include neural signal processing, rehabilitation.
 
 interests:
-- Neurorehabilitation
-- Brain Connectivity
+- Digital Signal Processing
 - Inverse Problems
 - Artificial Intelligence 
 - Open Source
@@ -52,9 +51,9 @@ social:
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=6jvBmvsAAAAJ
 
 - icon: github
   icon_pack: fab
@@ -64,9 +63,9 @@ social:
 # icon: cv
 # icon_pack: ai
 # link: files/cv.pdf
-- icon: instagram
+# icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/rinu.sebastian.padayattil
+# link: https://www.instagram.com/rinu.sebastian.padayattil
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rsebasti@usc.edu"
@@ -77,9 +76,7 @@ email: "rsebasti@usc.edu"
 #- Researchers
 #- Visitors
 ---
-I am a research associate at the Neurosurgery Department at the Keck School of Medicine of USC. 
-I aspire to pursue Ph.D. training at the intersection of neuroscience and engineering. My research interests are evolving. 
-I am primarily interested in neural signal processing with an emphasis on rehabilitation and neuromodulation centered on therapeutic benefit.  
-  
-  I grew up in Kochi, one of the southern cities of India. Apart from my mother tongue, Malayalam, I speak English and Hindi fluently. 
-Being a linguaphile, I am learning Spanish at present. In my spare time, I write poetry, watch movies, read philosophical fiction, and do journaling.
+My name is Rinu. I am a research associate at the Keck School of Medicine of USC. My goal is to pursue Ph.D. training in the intersection of digital signal processing and bio-inspired technologies. 
+I work on analysing intracranial neural signals alongside post-docs at Dr.Brian Lee's lab under the department of Neurosurgery.
+
+I grew up in Kochi, one of the southern cities of India. In my spare time, I write poetry, watch movies, read philosophical fiction, pick up Spanish and piano lessons and do journaling.
