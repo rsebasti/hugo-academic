@@ -19,7 +19,7 @@ authors = ["Kuang-Hsuan Chen","Angad S. Gogia", "Roberto Martin del Campo-Vera",
 # publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "(manuscript under preparation)"
+publication = "(manuscript under review)"
 #"In *International Conference on Academic*. You may use *Markdown* for italics etc."
 #publication_short = "In *ICA*"
 

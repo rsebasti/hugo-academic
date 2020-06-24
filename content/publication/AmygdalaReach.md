@@ -19,9 +19,9 @@ authors = ["Roberto Martin del Campo-Vera","Angad S. Gogia","Kuang-Hsuan Chen","
 # publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "(Journal of NeuralEngineeringring)"
+publication = "(Journal of Neurosurgery - Focus)"
 #"In *International Conference on Academic*. You may use *Markdown* for italics etc."
-publication_short = "In *JNE*"
+publication_short = "In *JNS*"
 
 # Abstract and optional shortened version.
 #abstract = "The abstract. Markdown and math can be used (note that math may require escaping as detailed in the red alert box below)."
